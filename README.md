@@ -39,6 +39,12 @@ Your project folder must include 'requipments.txt' also
 	"reponame":"Repository name in which is your application",
 }
 ```
+#### Give permission to work
+
+```
+$ ./chmod +x start.sh
+```
+
 #### Than just run the sh file
 
 ```
