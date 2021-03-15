@@ -1,0 +1,8 @@
+{
+	"project_name":"Your project name",
+	"flask_name":"Your project's flask name",
+	"start_file_name":"executable file name",//EXAMPLE:if you run your project with "app.py" you should write "app"
+	"Port":"Your application running port",
+	"git_link":"Link of you projet's git",
+	"reponame":"Repository name in which is your application",
+}
