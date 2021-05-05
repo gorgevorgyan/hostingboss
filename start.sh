@@ -19,6 +19,7 @@ try:
 	print('Reading config file')
 	fj = open('config.json',) 
 	data = json.load(fj) 
+	data = json.dumps(data)
 	start_file_name=data['start_file_name'] 
 	flask_name=data['flask_name'] 
 	project_name=data['project_name'] 
